@@ -2,4 +2,4 @@
 
 ## リンク
 
-[こちら]()。
+[こちらから](https://appi-github.github.io/sample_games/)。
